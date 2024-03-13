@@ -1,0 +1,2 @@
+this is a normal file in txt formate which will be pushed into remote repository in git hub.
+Thank you.
